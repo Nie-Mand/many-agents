@@ -276,16 +276,16 @@ wheels = [
 
 [[package]]
 name = "phoenix-agents"
-version = "0.1.18"
+version = "0.1.19"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anthropic" },
     { name = "azure-ai-inference" },
     { name = "mcp", extra = ["cli"] },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/b0/f9/9aadb47fc2046de2eab07ef4fc3e9adf2a62e6ce3b99d9c761e76bf28eb1/phoenix_agents-0.1.18.tar.gz", hash = "sha256:e336bcb650ac703a62ee6e6b797569393e9b2f2e179650a254a386593b3af1b0", size = 17950 }
+sdist = { url = "https://files.pythonhosted.org/packages/a2/e2/6b68976a62555e821dd446f1c6095d129e9c14a23245cca9a77819c10382/phoenix_agents-0.1.19.tar.gz", hash = "sha256:1cd3e1b77c3585c9c401ab3df6c7ed33e84d369eb857ceca3d38081dec00fc96", size = 17985 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/3c/b3/1693f6dc892cf25dcec5bce627dcd341170118e16a55fbc17fb4d89bff84/phoenix_agents-0.1.18-py3-none-any.whl", hash = "sha256:bae2656445bd4c6450490d3ff6f94772cc90b282327b21f1a89755b612afbf65", size = 8841 },
+    { url = "https://files.pythonhosted.org/packages/06/55/51fb9142453063bf96013ef30cc9009d94c3e8f199b716d93cde7ab6b9ae/phoenix_agents-0.1.19-py3-none-any.whl", hash = "sha256:a969467c3c5f63c3b6f72cc06db6c4a34fd660b49072d46e3960dfc0746e3a6c", size = 8863 },
 ]
 
 [[package]]

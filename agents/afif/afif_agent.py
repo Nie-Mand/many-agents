@@ -8,7 +8,7 @@ import phoenix.models.openai_history as openai_history
 from phoenix.connectors.mcp import MCPClient, MCPServer
 from agents.utils import mcp_servers_path_getter
 
-async def main():
+async def run():
     # Initialize chat history
     chat_history = openai_history.ChatHistory()
 
